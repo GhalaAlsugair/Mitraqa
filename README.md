@@ -1,6 +1,6 @@
 # MITRAQA
 
-![Alt text](MitraqaLogo.png)
+![Alt text](MitraqaLogo)
 
 
 ## Getting Started
