@@ -3,8 +3,10 @@
 ![Alt text](Logo)
 
 ## Mitraqa - Your Home Maintenance Companion!
-Description:
+
 Mitraqa is a smart home maintenance application designed to connect homeowners with professional service providers efficiently. Whether you need quick fixes, expert consultations, or in-home visits, Mitraqa offers a streamlined solution to manage home-related concerns with ease.
+
+![Alt text](MitraqaPoster.pdf)
 
 Features:
 
