@@ -8,8 +8,12 @@ Mitraqa is a smart home maintenance application designed to connect homeowners w
 
 Features:
 ✅ Variety of Home Services: Access a wide range of professional home services tailored to your needs.
+
 ✅ Instant Video Call Support: Get immediate assistance from experts through real-time video calls.
+
 ✅ DIY Home Solutions: Solve minor home issues independently with expert guidance.
+
 ✅ Efficient In-Home Visits: Schedule professional visits for maintenance and repairs.
+
 ✅ Powered by Modern Tech Stack: Developed using Flutter, Firebase, VSCode, GitHub, and Trello.
 
