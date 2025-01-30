@@ -1,6 +1,7 @@
 # MITRAQA
 
-A new Flutter project.
+![Alt text](MitraqaLogo.png)
+
 
 ## Getting Started
 
